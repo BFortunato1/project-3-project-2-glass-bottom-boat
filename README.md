@@ -5,8 +5,11 @@ RNA seq and Microarrays are well known methods that measure gene expression. How
 # Contributors
 
 Vishwa Talati (Data Curator)
+
 Kyrah Kotary (Programmer) 
+
 Marina Natividad (Analyst) 
+
 Brad Fortunato (Biologist)
 
 

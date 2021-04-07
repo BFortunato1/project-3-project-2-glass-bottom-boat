@@ -42,5 +42,24 @@ This script reports the summary statistics using the FastQC and STAR alignment r
 
 * Item 4 Output: Multiqc output is in the form of an HTML report which is displayed in the browser (multiqc_report.html)
 
+## Biologist Contributions
 
+
+### Tables of enriched pathways
+ 
+3 tables enriched pathways identified with your DE genes from each of our analyses.
+
+*cyto_table.csv
+
+*car_table.csv
+
+*ahr_table.csv
+
+### Heatmap & Heatmap code
+
+A clustered heatmap of our normalized counts
+
+*heatmap_2.R
+
+*plot_zoom.png
 

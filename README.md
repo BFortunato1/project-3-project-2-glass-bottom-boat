@@ -49,17 +49,17 @@ This script reports the summary statistics using the FastQC and STAR alignment r
  
 3 tables enriched pathways identified with your DE genes from each of our analyses.
 
-*cyto_table.csv
+* cyto_table.csv
 
-*car_table.csv
+* car_table.csv
 
-*ahr_table.csv
+* ahr_table.csv
 
 ### Heatmap & Heatmap code
 
 A clustered heatmap of our normalized counts
 
-*heatmap_2.R
+* heatmap_2.R
 
-*plot_zoom.png
+* plot_zoom.png
 
